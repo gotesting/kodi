@@ -2,6 +2,94 @@
 
 
 
+
+#EXTINF:-1 group-title="杭州移动2",CCTV 1
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 2
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 3
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 4
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 5
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 5+
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 6
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 7
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 8
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 9
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 10
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 11
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 12
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 13
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 14
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 15
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 17
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+#EXTINF:-1 group-title="杭州移动2",CCTV 4K
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 group-title="杭州移动2",CGTN
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+#EXTINF:-1 group-title="杭州移动2",湖南卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+#EXTINF:-1 group-title="杭州移动2",东方卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+#EXTINF:-1 group-title="杭州移动2",黑龙江卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+#EXTINF:-1 group-title="杭州移动2",广东卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+#EXTINF:-1 group-title="杭州移动2",深圳卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+#EXTINF:-1 group-title="杭州移动2",江苏卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1 group-title="杭州移动2",浙江卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+#EXTINF:-1 group-title="杭州移动2",江苏卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1 group-title="杭州移动2",深圳卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+#EXTINF:-1 group-title="杭州移动2",北京卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+#EXTINF:-1 group-title="杭州移动2",海南卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+#EXTINF:-1 group-title="杭州移动2",山东卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+#EXTINF:-1 group-title="杭州移动2",江西卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+#EXTINF:-1 group-title="杭州移动2",湖北卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+#EXTINF:-1 group-title="杭州移动2",河南卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+#EXTINF:-1 group-title="杭州移动2",河北卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+#EXTINF:-1 group-title="杭州移动2",贵州卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+#EXTINF:-1 group-title="杭州移动2",东南卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+#EXTINF:-1 group-title="杭州移动2",广西卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+#EXTINF:-1 group-title="杭州移动2",四川卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+#EXTINF:-1 group-title="杭州移动2",辽宁卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+#EXTINF:-1 group-title="杭州移动2",重庆卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+#EXTINF:-1 group-title="杭州移动2",安徽卫视
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="电信爱上源",CCTV1
 http://59.49.41.44/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="电信爱上源",CCTV2
